@@ -1,0 +1,21 @@
+html{
+    background-image: url("rog.jpg");
+    /*background-image: linear-gradient(white, grey, black);*/
+    border-bottom-color: green; border-bottom-style: none; border-bottom-width: 1px;
+    color: yellow;
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 1.5;
+    margin: 20px;
+    background-size: cover;
+}
+
+article{
+    text-shadow: 0 2px 5px rgba(0,0,0,0.5);
+    margin: 5px;
+}
+
+.name{
+    color: goldenrod;
+    animation: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+}
